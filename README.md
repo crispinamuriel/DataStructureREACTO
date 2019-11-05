@@ -1,2 +1,2 @@
 # DataStructureREACTO
--this is my log of all the problems given during REACTOs
+- This is my log of all the DS & A problems given during REACTOs
